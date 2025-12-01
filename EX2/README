@@ -1,0 +1,9 @@
+Created a list of integers (e.g., 1..100 or any 20+ integers).
+Uses filter { ... } → even numbers
+map { ... } → squares of each number
+reduce { acc, n -> ... } → sum of all numbers
+Prints results with clear labels:
+
+Evens:
+Squares:
+Sum:
